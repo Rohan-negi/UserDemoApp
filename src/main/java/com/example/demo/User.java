@@ -28,7 +28,6 @@ public class User {
 		return id;
 	}
 
-	
 	public Address getAddress() {
 		return address;
 	}
